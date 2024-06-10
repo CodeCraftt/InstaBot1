@@ -1,3 +1,6 @@
+[part 2](https://github.com/CodeCraftt/InstaBot2)
+
+
 # InstaBot: Your Ultimate Instagram Automation Assistant 🤖✨
 
 ## Overview
